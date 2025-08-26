@@ -1,4 +1,4 @@
-# FGSat: Fine-Grained Satellite Classification Dataset
+# FGSat: A New Dataset and Performance Benchmark for Fine-Grained Satellite Classification
 
 ## Overview
 
