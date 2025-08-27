@@ -97,4 +97,5 @@ For more details, see: https://creativecommons.org/licenses/by/4.0/
 
 ## Pre-Release Version
 
-A **pre-release version** containing 600 representative samples from standard imaging conditions (20 images per class) is currently available for researchers to conduct rapid evaluation and testing of satellite classification algorithms. The complete dataset will be released soon.
+A **pre-release version** containing 600 representative samples from standard imaging conditions (20 images per class) is currently available for researchers to conduct rapid evaluation and testing of satellite classification algorithms. The pre-release annotations have also been converted from the original JSON format to the YOLO format, facilitating faster evaluation and experimentation.  
+The complete dataset will be released soon.
