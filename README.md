@@ -18,7 +18,7 @@
 
 The dataset encompasses 30 distinct satellite models spanning Earth observation and scientific missions:
 
-### Earth Science Satellites (17 types)
+### Earth Observation Satellites (17 types)
 
 | Satellite | Primary Function |
 |-----------|------------------|
