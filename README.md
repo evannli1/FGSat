@@ -11,7 +11,7 @@
 - **Resolution**: 1920×1080 pixels
 - **Annotation**: Automatic bounding box generation
 - **Rendering**: Unity Engine integrated Physically-Based Rendering (PBR) technology
-- **Imaging Conditions**: Normal, overexposed, out-of-focus, and noise-artifact scenarios
+- **Imaging Conditions**: Normal, overexposed, out-of-focus, and noise artifact scenarios
 - **Data Split**: 70% training, 20% validation, 10% testing
 
 ## Satellite Categories
