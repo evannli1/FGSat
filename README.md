@@ -38,7 +38,7 @@ The dataset encompasses 30 distinct satellite models spanning Earth observation 
 | **Terra** | Land & Climate Change |
 | **TOPEX** | Ocean Topography |
 | **TDRS** | Data Relay |
-| **Tselina-2** | Electronic Intelligence |
+| **Tselina-2** | Electromagnetic Observation |
 
 ### Scientific Research Satellites (13 types)
 
